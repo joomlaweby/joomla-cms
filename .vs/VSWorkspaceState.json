@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cli",
+    "\\components",
+    "\\components\\com_contact",
+    "\\components\\com_contact\\src",
+    "\\components\\com_contact\\src\\Model",
+    "\\components\\com_contact\\src\\Service"
+  ],
+  "SelectedNode": "\\scss-lint.yml",
+  "PreviewInSolutionExplorer": false
+}
